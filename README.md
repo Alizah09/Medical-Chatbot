@@ -12,7 +12,7 @@ This project is a locally hosted **medical chatbot** that answers a wide range o
 - 📄 Medical PDFs preloaded and processed for context
 - 📌 Responses are strictly based on document content
 - ⚡ Caching improves speed for repeated usage
-- 🔐 Entirely offline — no internet or API needed
+- 🔐 Entirely offline — no internet or API needed to use
 
 ---
 
